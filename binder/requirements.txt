@@ -1,6 +1,9 @@
 ipython
 pandas
 yellowbrick==1.1
+matplotlib
+plotly
+ppscore
 klib
 pandas_profiling
 seaborn==0.10.0
