@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Install a JupyterLab extension for demonstration purposes
-jupyter labextension install @jupyterlab/toc
+jupyter labextension install @jupyterlab/toc @jupyter-widgets/jupyterlab-manager jupyterlab-plotly plotlywidget nbdime-jupyterlab

@@ -1,3 +1,4 @@
+pyforest 
 ipython
 pandas
 yellowbrick==1.1
