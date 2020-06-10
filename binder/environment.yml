@@ -7,3 +7,17 @@ dependencies:
 - nbconvert=5.5
 - widgetsnbextension=3.4.2
 - ipywidgets=7.4.2
+- plotly=4.8.1
+- seaborn
+- matplotlib
+- pandas
+- ipython
+- pip
+- pip:
+  - jupyter_contrib_nbextensions
+  - pyforest 
+  - yellowbrick==1.1
+  - ppscore
+  - klib
+  - pandas_profiling
+  - jupyterlab_launcher>=0.5.0
