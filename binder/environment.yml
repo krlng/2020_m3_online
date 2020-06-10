@@ -1,0 +1,9 @@
+channels:
+- conda-forge
+dependencies:
+# Jupyter
+- jupyterlab=2
+- nodejs=11
+- nbconvert=5.5
+- widgetsnbextension=3.4.2
+- ipywidgets=7.4.2

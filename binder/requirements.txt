@@ -1,12 +1,10 @@
 jupyter_contrib_nbextensions
-ipywidgets==7.4.2
-widgetsnbextension==3.4.2
 pyforest 
 ipython
 pandas
 yellowbrick==1.1
 matplotlib
-plotly
+plotly==4.8.1
 ppscore
 klib
 pandas_profiling
